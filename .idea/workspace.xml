@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="887be7f4-8412-4731-a1b7-b1ead1fa10de" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/detect_deficient_nutrient.ipynb" afterDir="false" />
+    <list default="true" id="887be7f4-8412-4731-a1b7-b1ead1fa10de" name="Changes" comment="Update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coba_model_1.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,12 +23,21 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Excel951"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Excel951&quot;
   }
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Excel951/friendly-tribble.git&quot;,
+    &quot;accountId&quot;: &quot;c6ce3ccb-3de0-46d5-b333-53aa17930791&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -44,7 +51,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Studi/MBKM/capstone/Capstone_Model_NPK&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/IDe/PycharmProjects/Simulasi_Ujian_TensorFlow_Developer_Certificate&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -73,10 +80,39 @@
       <workItem from="1716621433510" duration="496000" />
       <workItem from="1716621936477" duration="16121000" />
       <workItem from="1716714492871" duration="2263000" />
+      <workItem from="1716793365035" duration="9000" />
+      <workItem from="1716809009994" duration="2658000" />
+      <workItem from="1716901257849" duration="166000" />
+      <workItem from="1717135748984" duration="6704000" />
+      <workItem from="1717143750251" duration="334000" />
     </task>
+    <task id="LOCAL-00001" summary="Update">
+      <option name="closed" value="true" />
+      <created>1716733674924</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716733674924</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
 </project>
